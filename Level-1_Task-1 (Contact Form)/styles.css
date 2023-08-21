@@ -20,35 +20,35 @@ label{
 	
 }
 input[type=text], select, textarea {
-  width: 96%;
-  font-size:20px;
-  margin-left:20px;
-  padding: 20px; 
-  border: 2px solid #7a773dff; 
-  border-radius: 10px; 
-  box-sizing: border-box; 
-  margin-top: 10px; 
-  margin-bottom: 25px; 
+  	width: 96%;
+	font-size:20px;
+	margin-left:20px;
+	padding: 20px; 
+	border: 2px solid #7a773dff; 
+	border-radius: 10px; 
+	box-sizing: border-box; 
+	margin-top: 10px; 
+	margin-bottom: 25px; 
 }
 input[type=submit] {
-  margin-left:40px;
-  font-size:20px;
-  margin-bottom:20px;
-  background-color:#7a773dff;
-  color: white;
-  font-size:20px;
-  font-weight:700;
-  padding: 15px 15px;
-  border: 2px solid white;
-  border-radius: 10px;
-  cursor: pointer;
+	  margin-left:40px;
+	  font-size:20px;
+	  margin-bottom:20px;
+	  background-color:#7a773dff;
+	  color: white;
+	  font-size:20px;
+	  font-weight:700;
+	  padding: 15px 15px;
+	  border: 2px solid white;
+	  border-radius: 10px;
+	  cursor: pointer;
 }
 input[type=submit]:hover {
-  background-color: #a39c22ff;
+  	background-color: #a39c22ff;
 }
 .container {
-  border-radius: 10px;
-  border: 5px solid #7a773dff;
-  padding:10px;
+	  border-radius: 10px;
+	  border: 5px solid #7a773dff;
+	  padding:10px;
 	
 }
